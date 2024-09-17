@@ -1,0 +1,163 @@
+/* Theme Dashboard */
+.rivax-dashboard-wrapper {
+    max-width: 1025px;
+    margin-top: 30px;
+}
+.rivax-dashboard-header {
+    display: flex;
+	gap: 30px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 6px 15px #35374014;
+}
+.rivax-dashboard-header-content {
+    flex-grow: 1;
+}
+.rivax-dashboard-stars {
+    color: #FFC107;
+    text-shadow: 0 2px 10px #ffc10742;
+}
+.rivax-dashboard-hr {
+    margin: 15px 0;
+    border-top: 1px dashed #c7c9d2;
+}
+.rivax-dashboard-header-content h1 {
+    margin: 15px 0 25px;
+}
+.rivax-dashboard-header-content p {
+    font-size: 16px;
+	margin: 0.6em 0;
+    color: #5e646b;
+}
+.rivax-dashboard-header-logo {
+    width: 150px;
+    text-align: center;
+}
+.rivax-dashboard-header-logo a {
+    display: block;
+    border-radius: 10px;
+    border: 1px solid #e3e4ec;
+	box-shadow: none;
+    padding: 10px;
+	transition: 0.3s;
+}
+.rivax-dashboard-header-logo a:hover {
+	box-shadow: 0 5px 15px #2f324536;
+}
+.rivax-dashboard-header-logo img {
+    width: 100%;
+    max-width: 100%;
+    background: #3343e9;
+	border-radius: inherit;
+}
+.rivax-dashboard-header-logo span {
+    padding: 5px 0 9px;
+    display: inline-block;
+    font-size: 15px;
+    color: #2a2b31;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.rivax-dashboard-link {
+	padding: 0 2px;
+    text-decoration: none;
+    display: inline-block;
+    color: #ff5d5d !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    position: relative;
+}
+.rivax-dashboard-link::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background: #ff5d5d;
+    transition: 0.3s;
+}
+.rivax-dashboard-btn {
+    text-decoration: none;
+    display: inline-block;
+    background: #2f81ff;
+    color: #fff !important;
+    padding: 11px 20px;
+    border-radius: 4px;
+    outline: none !important;
+    border: none !important;
+    letter-spacing: 1px;
+    font-size: 15px;
+    box-shadow: 0 4px 20px #2d2f381f !important;
+}
+
+
+.rivax-dashboard-body {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px -15px 0;
+}
+.rivax-dashboard-card {
+    padding: 0 15px;
+    box-sizing: border-box;
+    flex-basis: 50%;
+	flex-grow: 1;
+    margin-bottom: 30px;
+}
+.rivax-dashboard-card-inner {
+    background: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 6px 15px #35374014;
+}
+.rivax-dashboard-card-inner p {
+    font-size: 15px;
+    color: #5e646b;
+}
+.rivax-dashboard-card-inner .rivax-dashboard-btn {
+    display: block;
+    margin: 20px 0 5px;
+}
+
+
+.rivax-dashboard-card-inner.card-1 .rivax-dashboard-btn {
+    background: #00bcd4;
+}
+.rivax-dashboard-card-inner.card-2 .rivax-dashboard-btn {
+    background: #03a9f4;
+}
+.rivax-dashboard-card-inner.card-3 .rivax-dashboard-btn {
+    background: #ff9639;
+}
+.rivax-dashboard-card-inner.card-4 .rivax-dashboard-btn {
+    background: #ff5d5d;
+}
+.rivax-dashboard-card-inner.card-5 .rivax-dashboard-btn {
+    background: #2bbd96;
+}
+
+/* Page Settings */
+body #side-sortables .cmb-th, body .inner-sidebar .cmb-th {
+    padding-bottom: 0;
+}
+
+body #side-sortables .cmb2-wrap>.cmb-field-list>.cmb-row {
+    padding: 1em 0;
+    margin-bottom: 0;
+}
+
+body #side-sortables .cmb2-wrap label, body .inner-sidebar .cmb2-wrap label {
+    font-weight: 500;
+}
+
+#side-sortables .cmb2-wrap select {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+body .cmb-type-group .cmb2-wrap>.cmb-field-list>.cmb-row, body .cmb2-postbox .cmb2-wrap>.cmb-field-list>.cmb-row {
+    padding: 10px 0;
+}

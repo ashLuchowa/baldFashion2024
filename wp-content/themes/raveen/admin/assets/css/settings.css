@@ -1,0 +1,254 @@
+.redux-container #redux-header {
+    border-bottom-width: 10px;
+    padding: 15px;
+    background: #31343a !important;
+    border-color: #31343a !important;
+}
+.redux-container #redux-header .display_header h2 {
+    font-size: 2.2em;
+    margin: 0.5em 0;
+}
+
+.redux-container .redux-sidebar .redux-group-menu {
+    background-color: transparent;
+}
+
+.redux-sidebar {
+    width: 252px;
+}
+
+.redux-container .redux-main {
+    margin-left: 251px;
+}
+
+body.rtl .redux-container .redux-main {
+    margin-right: 251px;
+    margin-left: 0;
+}
+
+.redux-container {
+    margin-top: 15px;
+}
+
+.redux-container #info_bar {
+    background: #f7f8fa;
+    padding: 10px;
+    box-shadow: none;
+    border: none;
+}
+
+.redux-container #redux-footer {
+    background: white !important;
+}
+
+.redux-container {
+    background-color: #393f4a;
+    background-image: none;
+}
+
+.redux-container .redux-action_bar input {
+    border: none;
+    margin: 0 3px;
+    background: #536076;
+    color: #fff;
+    padding: 5px 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 12px;
+    transition: 0.3s;
+}
+
+.redux-container .redux-action_bar input#redux_top_save, .redux-container .redux-action_bar input#redux_bottom_save {
+    background: #01d49e;
+}
+
+.redux-container .redux-action_bar input:hover {
+    background: #ffc107;
+    color: #fff;
+}
+
+.redux-container .redux-action_bar input#redux_top_save:hover, .redux-container .redux-action_bar input#redux_bottom_save:hover {
+    background: #2ba988;
+}
+
+.redux-sidebar .redux-group-menu li a {
+    padding: 10px 4px 10px 25px;
+}
+
+body.rtl .redux-sidebar .redux-group-menu li a {
+    padding: 10px 25px 10px 4px;
+}
+
+.redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li.hasIcon a, .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.hasIcon a {
+    padding-left: 25px;
+}
+
+body.rtl .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li.hasIcon a, body.rtl .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.hasIcon a {
+    padding-right: 25px;
+    padding-left: 4px;
+}
+
+.redux-sidebar .redux-group-menu li.active a, .redux-sidebar .redux-group-menu li.active a:hover, .redux-sidebar .redux-group-menu li.activeChild a, .redux-sidebar .redux-group-menu li.activeChild a:hover {
+    width: auto;
+}
+
+.redux-container .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a,
+.redux-container .redux-sidebar .redux-group-menu li.active a,
+.redux-container .redux-sidebar .redux-group-menu li a:hover {
+    background-color: #ff4282 !important;
+    color: #fff !important;
+}
+
+.noUi-horizontal {
+    height: 10px;
+}
+
+.noUi-connect {
+    background: #01d49e !important;
+}
+
+.noUi-target {
+    border-radius: 50px;
+    border: none;
+}
+
+.noUi-target.noUi-connect {
+    box-shadow: none;
+}
+
+.noUi-origin {
+    border-radius: 50px;
+}
+
+.noUi-background {
+    background: #eaecf1;
+    box-shadow: none;
+}
+
+.noUi-horizontal .noUi-handle {
+    width: 20px;
+    height: 20px;
+    border: none;
+    box-shadow: 0 4px 10px #26272e4a;
+    background: #536076;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.noUi-handle::before, .noUi-handle::after {
+    height: 11px;
+    background: #ffffff73;
+    left: 9px;
+    top: 5px;
+}
+
+.noUi-handle::after {
+    left: 11px;
+}
+
+.redux-container-switch .cb-enable, .redux-container-switch .cb-disable {
+    border-width: 0;
+}
+
+.redux-container-switch .cb-disable, .redux-container-switch .cb-enable, .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    background: #e9edf4 !important;
+    filter: none !important;
+    box-shadow: none !important;
+}
+
+.redux-container-switch .cb-disable.selected {
+    background: #393f4a !important;
+    filter: none !important;
+    box-shadow: none !important;
+}
+
+.redux-container-spinner .ui-widget .ui-spinner-button .ui-icon, .redux-container-switch .cb-enable.selected, .redux-field-container .ui-buttonset .ui-state-active {
+    background: #01d49e !important;
+    filter: none !important;
+    box-shadow: none !important;
+}
+
+.redux-container-switch .cb-enable, .redux-container-switch .cb-disable {
+    color: #222328;
+}
+
+.redux-container-switch .cb-enable span, .redux-container-switch .cb-disable span {
+    font-weight: 300;
+}
+
+.redux-container .redux-main a {
+    color: #ff4282;
+}
+
+.redux-container .redux-main .button-primary {
+    color: #fff;
+}
+
+.redux-container .redux-main .button-secondary {
+    color:#2271b1;
+}
+
+.redux-container .notice-yellow {
+    background-color: #ff9800;
+    color: #ffffff;
+}
+
+.redux-container .notice-green {
+    background-color: #01d49e;
+    color: #ffffff;
+}
+
+.redux-container .redux-main .form-table tr th {
+    color: #262830;
+}
+
+.redux-container .redux-main .form-table tr td, .redux-container .redux_field_th span:first-child {
+    color: #5b5d66;
+}
+
+.redux_field_th {
+    padding-bottom: 20px !important;
+}
+
+.redux-main input, select, textarea,
+.select2-container--default .select2-selection--single{
+    border: 1px solid #d3d9e2;
+}
+
+.redux-container-raw h2, .redux-container-raw h4 {
+    background: #5490ff;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: #fff;
+}
+
+.redux-container-raw h2 {
+    font-size: 1em;
+}
+
+.select2-container {
+    max-width: 400px;
+}
+
+body.rtl .redux-container #redux-header .display_header {
+    float: right;
+}
+
+body.rtl .redux-container #redux-header .display_header h2 {
+    padding-right: 0;
+    padding-left: 5px;
+}
+
+body.rtl .redux-container .redux-action_bar .spinner {
+    float: right;
+}
+
+body.rtl .redux-sidebar .redux-group-tab-link-li.hasSubSections.redux-section-hover .subsection {
+    right: 201px;
+    left: auto;
+}
+
+body.rtl .redux-container-switch .cb-enable, body.rtl .redux-container-switch .cb-disable, body.rtl .redux-container-switch .cb-enable span, body.rtl .redux-container-switch .cb-disable span {
+    float: right;
+}
