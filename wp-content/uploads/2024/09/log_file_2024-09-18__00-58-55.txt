@@ -1,0 +1,26 @@
+
+---Downloaded files---
+The import files for: Personal Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/baldFashion2024
+Data file = C:\xampp\htdocs\baldFashion2024/wp-content/themes/raveen/admin/demo/personal/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+rivax_raveen_options -> C:\xampp\htdocs\baldFashion2024/wp-content/themes/raveen/admin/demo/personal/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing Redux settings---
+Redux settings import for: rivax_raveen_options finished successfully!
+
+---ocdi/after_import---
+

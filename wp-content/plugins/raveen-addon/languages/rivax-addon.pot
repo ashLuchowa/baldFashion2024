@@ -1,0 +1,422 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Raveen Addon\n"
+"POT-Creation-Date: 2023-09-06 17:03+0330\n"
+"PO-Revision-Date: 2023-06-04 20:16+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: raveen-addon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: meta-box.php:27 meta-box.php:49 meta-box.php:70 meta-box.php:92
+msgid "Page Layout"
+msgstr ""
+
+#: meta-box.php:35 meta-box.php:78
+msgid "Page Header"
+msgstr ""
+
+#: meta-box.php:42 meta-box.php:85
+msgid "Page Footer"
+msgstr ""
+
+#: meta-box.php:53 meta-box.php:96 meta-box.php:159 raveen-addon.php:59
+msgid "Default"
+msgstr ""
+
+#: meta-box.php:54 meta-box.php:97
+msgid "Left Sidebar"
+msgstr ""
+
+#: meta-box.php:55 meta-box.php:98
+msgid "Right Sidebar"
+msgstr ""
+
+#: meta-box.php:56 meta-box.php:99
+msgid "No Sidebar"
+msgstr ""
+
+#: meta-box.php:57 meta-box.php:100
+msgid "No Sidebar + Narrow Content"
+msgstr ""
+
+#: meta-box.php:58 meta-box.php:101
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: meta-box.php:106
+msgid "Page Top Content"
+msgstr ""
+
+#: meta-box.php:113
+msgid "Page Bottom Content"
+msgstr ""
+
+#: meta-box.php:127
+msgid "Post Hero Section Settings"
+msgstr ""
+
+#: meta-box.php:135
+msgid "Reading Time"
+msgstr ""
+
+#: meta-box.php:138
+msgid "Custom reading time in minute. Just enter number."
+msgstr ""
+
+#: meta-box.php:142
+msgid "Disable Table Of Content"
+msgstr ""
+
+#: meta-box.php:148
+msgid "Standard Post Format:"
+msgstr ""
+
+#: meta-box.php:151
+msgid "Settings for standard post format"
+msgstr ""
+
+#: meta-box.php:155
+msgid "Post Hero Layout"
+msgstr ""
+
+#: meta-box.php:160
+msgid "Layout 1"
+msgstr ""
+
+#: meta-box.php:161
+msgid "Layout 2"
+msgstr ""
+
+#: meta-box.php:162
+msgid "Layout 3"
+msgstr ""
+
+#: meta-box.php:163
+msgid "Layout 4"
+msgstr ""
+
+#: meta-box.php:164
+msgid "Layout 5"
+msgstr ""
+
+#: meta-box.php:165
+msgid "Layout 6"
+msgstr ""
+
+#: meta-box.php:171
+msgid "Gallery Post Format:"
+msgstr ""
+
+#: meta-box.php:174
+msgid "Settings for gallery post format"
+msgstr ""
+
+#: meta-box.php:178
+msgid "Gallery Images"
+msgstr ""
+
+#: meta-box.php:185
+msgid "Audio Post Format:"
+msgstr ""
+
+#: meta-box.php:188
+msgid "Settings for audio post format"
+msgstr ""
+
+#: meta-box.php:192
+msgid "Audio URL"
+msgstr ""
+
+#: meta-box.php:195
+msgid ""
+"From soundcloud ( Eg. https://soundcloud.com/millesimofficial/zara-larsson-"
+"uncover-j-art-madan )"
+msgstr ""
+
+#: meta-box.php:199
+msgid "Video Post Format:"
+msgstr ""
+
+#: meta-box.php:202
+msgid "Settings for video post format"
+msgstr ""
+
+#: meta-box.php:206
+msgid "Video URL"
+msgstr ""
+
+#: meta-box.php:209
+msgid ""
+"From Youtube or Vimeo ( Eg. https://www.youtube.com/watch?v=M1INNns-Vi8 )"
+msgstr ""
+
+#: meta-box.php:213
+msgid "Link Post Format:"
+msgstr ""
+
+#: meta-box.php:216
+msgid "Settings for link post format"
+msgstr ""
+
+#: meta-box.php:220
+msgid "Link URL"
+msgstr ""
+
+#: meta-box.php:223
+msgid "Eg. https://example.com"
+msgstr ""
+
+#: meta-box.php:227
+msgid "Link Title"
+msgstr ""
+
+#: meta-box.php:230
+msgid "Eg. Rivax Studio"
+msgstr ""
+
+#: meta-box.php:234
+msgid "Quote Post Format:"
+msgstr ""
+
+#: meta-box.php:237
+msgid "Settings for quote post format"
+msgstr ""
+
+#: meta-box.php:241
+msgid "Quote Author"
+msgstr ""
+
+#: meta-box.php:247
+msgid "Quote Content"
+msgstr ""
+
+#: meta-box.php:260
+msgid "Avatar"
+msgstr ""
+
+#: meta-box.php:267
+msgid "Extra Info From The Theme"
+msgstr ""
+
+#: meta-box.php:273
+msgid "Profile Image"
+msgstr ""
+
+#: meta-box.php:275
+msgid "Upload square image."
+msgstr ""
+
+#: meta-box.php:282
+msgid "Email Address"
+msgstr ""
+
+#: meta-box.php:288
+msgid "Website URL"
+msgstr ""
+
+#: meta-box.php:294
+msgid "Facebook URL"
+msgstr ""
+
+#: meta-box.php:300
+msgid "Twitter URL"
+msgstr ""
+
+#: meta-box.php:306
+msgid "Linkedin URL"
+msgstr ""
+
+#: meta-box.php:312
+msgid "Whatsapp URL"
+msgstr ""
+
+#: meta-box.php:318
+msgid "Instagram URL"
+msgstr ""
+
+#: meta-box.php:324
+msgid "Pinterest URL"
+msgstr ""
+
+#: meta-box.php:330
+msgid "Dribbble URL"
+msgstr ""
+
+#: meta-box.php:336
+msgid "Telegram URL"
+msgstr ""
+
+#: meta-box.php:342
+msgid "Youtube URL"
+msgstr ""
+
+#: meta-box.php:348
+msgid "Vimeo URL"
+msgstr ""
+
+#: meta-box.php:354
+msgid "Github URL"
+msgstr ""
+
+#: meta-box.php:360
+msgid "Behance URL"
+msgstr ""
+
+#: meta-box.php:366
+msgid "Soundcloud URL"
+msgstr ""
+
+#: meta-box.php:372
+msgid "Tumblr URL"
+msgstr ""
+
+#: meta-box.php:378
+msgid "Stackoverflow URL"
+msgstr ""
+
+#: raveen-addon.php:18 raveen-addon.php:26
+msgid "Rivax Templates"
+msgstr ""
+
+#: raveen-addon.php:19 raveen-addon.php:20
+msgid "Rivax Template"
+msgstr ""
+
+#: raveen-addon.php:21
+msgid "Add New"
+msgstr ""
+
+#: raveen-addon.php:22
+msgid "Add New Rivax Template"
+msgstr ""
+
+#: raveen-addon.php:23
+msgid "New Rivax Template"
+msgstr ""
+
+#: raveen-addon.php:24
+msgid "Edit Rivax Template"
+msgstr ""
+
+#: raveen-addon.php:25
+msgid "View Rivax Template"
+msgstr ""
+
+#: raveen-addon.php:27
+msgid "Search Rivax Templates"
+msgstr ""
+
+#: raveen-addon.php:28
+msgid "Not found"
+msgstr ""
+
+#: raveen-addon.php:29
+msgid "Not found anythings in the trash"
+msgstr ""
+
+#: raveen-addon.php:62
+msgid "Disable"
+msgstr ""
+
+#: raveen-addon.php:111
+msgid "Views"
+msgstr ""
+
+#: raveen-addon.php:168
+msgid "Website: "
+msgstr ""
+
+#: raveen-addon.php:172
+msgid "Send Me an Email"
+msgstr ""
+
+#: raveen-addon.php:176
+msgid "Follow Me on Facebook"
+msgstr ""
+
+#: raveen-addon.php:180
+msgid "Follow Me on Twitter"
+msgstr ""
+
+#: raveen-addon.php:184
+msgid "Follow Me on Linkedin"
+msgstr ""
+
+#: raveen-addon.php:188
+msgid "Follow Me on WhatsApp"
+msgstr ""
+
+#: raveen-addon.php:192
+msgid "Follow Me on Instagram"
+msgstr ""
+
+#: raveen-addon.php:196
+msgid "Follow Me on Pinterest"
+msgstr ""
+
+#: raveen-addon.php:200
+msgid "Follow Me on Dribbble"
+msgstr ""
+
+#: raveen-addon.php:204
+msgid "Follow Me on Telegram"
+msgstr ""
+
+#: raveen-addon.php:208
+msgid "Follow Me on Youtube"
+msgstr ""
+
+#: raveen-addon.php:212
+msgid "Follow Me on Vimeo"
+msgstr ""
+
+#: raveen-addon.php:216
+msgid "Follow Me on Github"
+msgstr ""
+
+#: raveen-addon.php:220
+msgid "Follow Me on Behance"
+msgstr ""
+
+#: raveen-addon.php:224
+msgid "Follow Me on Soundcloud"
+msgstr ""
+
+#: raveen-addon.php:228
+msgid "Follow Me on Tumblr"
+msgstr ""
+
+#: raveen-addon.php:232
+msgid "Follow Me on Stackoverflow"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Raveen Addon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/rivaxstudio/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add rivax templates post type for the theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rivax Studio"
+msgstr ""
