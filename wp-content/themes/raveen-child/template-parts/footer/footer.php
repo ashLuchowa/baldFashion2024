@@ -25,7 +25,7 @@
 						else { // Default Footer
 							?>
 							<div class="default-footer-copyright">
-								<p><?php esc_html_e('All Right Reserved!', 'raveen'); ?></p>
+								<p><?php esc_html_e('All Right Reserved!', 'BaldFashion'); ?></p>
 							</div>
 							<?php
 						}
